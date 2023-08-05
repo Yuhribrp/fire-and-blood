@@ -4,7 +4,7 @@
   "tokenColors": [
     {
       "settings": {
-        "foreground": "#bce7ff"
+        "foreground": "#ffbcbf"
       }
     },
     {
@@ -22,7 +22,7 @@
         "punctuation.definition.heading.markdown"
       ],
       "settings": {
-        "foreground": "#5ABEB0"
+        "foreground": "#a55abe"
       }
     },
     {
@@ -32,7 +32,7 @@
         "markup.quote.markdown"
       ],
       "settings": {
-        "foreground": "#82AAFF"
+        "foreground": "#a882ff"
       }
     },
     {
@@ -40,7 +40,7 @@
         "markup.quote.markdown"
       ],
       "settings": {
-        "foreground": "#82AAFF"
+        "foreground": "#a882ff"
       }
     },
     {
@@ -50,7 +50,7 @@
       ],
       "settings": {
         "fontStyle": "bold",
-        "foreground": "#57cdff"
+        "foreground": "#ffb657"
       }
     },
     {
@@ -85,7 +85,7 @@
         "markup.underline.link.markdown"
       ],
       "settings": {
-        "foreground": "#6dbdfa"
+        "foreground": "#fad96d"
       }
     },
     {
@@ -159,7 +159,7 @@
         "constant.other"
       ],
       "settings": {
-        "foreground": "#82AAFF"
+        "foreground": "#a882ff"
       }
     },
     {
@@ -220,7 +220,7 @@
         "meta.method.declaration storage.type.tsx"
       ],
       "settings": {
-        "foreground": "#a1bde6"
+        "foreground": "#e6a1d9"
       }
     },
     {
@@ -274,7 +274,7 @@
       "scope": "storage",
       "settings": {
         "fontStyle": "",
-        "foreground": "#6dbdfa"
+        "foreground": "#fa826d"
       }
     },
     {
@@ -320,7 +320,7 @@
         "meta.export.js variable.other"
       ],
       "settings": {
-        "foreground": "#d3eed6"
+        "foreground": "#e3d3ee"
       }
     },
     {
@@ -335,7 +335,7 @@
       "scope": "entity.other.inherited-class",
       "settings": {
         "fontStyle": "",
-        "foreground": "#4FB4D8"
+        "foreground": "#d84f6f"
       }
     },
     {
@@ -367,7 +367,7 @@
       "name": "Function argument",
       "scope": "variable.parameter",
       "settings": {
-        "foreground": "#d7dbe0",
+        "foreground": "#e0d7df",
         "fontStyle": ""
       }
     },
@@ -376,7 +376,7 @@
       "scope": "entity.name.tag",
       "settings": {
         "fontStyle": "",
-        "foreground": "#6dbdfa"
+        "foreground": "#fa896d"
       }
     },
     {
@@ -450,14 +450,14 @@
       "scope": "invalid",
       "settings": {
         "fontStyle": " italic bold underline",
-        "foreground": "#6dbdfa"
+        "foreground": "#fa896d"
       }
     },
     {
       "name": "Invalid deprecated",
       "scope": "invalid.deprecated",
       "settings": {
-        "foreground": "#6dbdfa",
+        "foreground": "#fa896d",
         "fontStyle": " bold italic underline"
       }
     },
@@ -472,7 +472,7 @@
       "name": "JSON Support Constants",
       "scope": "support.constant.json",
       "settings": {
-        "foreground": "#addb67"
+        "foreground": "#dbbc67"
       }
     },
     {
@@ -486,7 +486,7 @@
       "name": "Strings in JSON values",
       "scope": "string.quoted.double.json punctuation.definition.string.json",
       "settings": {
-        "foreground": "#80CBC4"
+        "foreground": "#cb9a80"
       }
     },
     {
@@ -500,7 +500,7 @@
       "name": "[JSON] - Support",
       "scope": "source.json support",
       "settings": {
-        "foreground": "#6dbdfa"
+        "foreground": "#fa896d"
       }
     },
     {
@@ -517,7 +517,7 @@
       "name": "Lists",
       "scope": "markup.list",
       "settings": {
-        "foreground": "#6dbdfa"
+        "foreground": "#fa896d"
       }
     },
     {
@@ -528,7 +528,7 @@
       ],
       "settings": {
         "fontStyle": "",
-        "foreground": "#4FB4D8"
+        "foreground": "#d84f5d"
       }
     },
     {
@@ -555,21 +555,21 @@
       "name": "Quotes",
       "scope": "markup.quote",
       "settings": {
-        "foreground": "#78bd65"
+        "foreground": "#bd8865"
       }
     },
     {
       "name": "Link Url",
       "scope": "meta.link",
       "settings": {
-        "foreground": "#78BD65"
+        "foreground": "#bd8865"
       }
     },
     {
       "name": "Dockerfile",
       "scope": "source.dockerfile",
       "settings": {
-        "foreground": "#99d0f7"
+        "foreground": "#f79999"
       }
     }
   ],
