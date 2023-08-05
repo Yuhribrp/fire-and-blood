@@ -1,0 +1,22 @@
+{
+  "name": "fire-blood",
+  "displayName": "Fire&Blood",
+  "description": "Fire and Blood Theme by Yuhribrp",
+  "icon": "images/winteriscoming-icon.png",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.81.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Fire&Blood",
+        "uiTheme": "hc-black",
+        "path": "./themes/Fire&Blood-color-theme.json"
+      }
+    ]
+  }
+}
