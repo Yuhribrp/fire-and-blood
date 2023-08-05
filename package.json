@@ -3,6 +3,10 @@
   "displayName": "Fire&Blood",
   "description": "Fire and Blood Theme by Yuhribrp",
   "icon": "images/winteriscoming-icon.png",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Yuhribrp/fire-and-blood.git"
+  },
   "version": "0.0.1",
   "engines": {
     "vscode": "^1.81.0"
